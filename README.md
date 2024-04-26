@@ -1,5 +1,5 @@
 # balling
-raytracing training
+raycasting training
 
 # Usefull links
 
